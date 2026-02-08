@@ -1,6 +1,6 @@
-# Network AI Assistant
+# OSPF and IS-IS AI Agent
 
-A Streamlit-based AI agent for network assistance with OSPF/IS-IS capabilities. Works with Topolograph MCP.  
+An OSPF and IS-IS AI Agent that interacts with real OSPF and IS-IS network domains. It retrieves data from network snapshots (Topolograph) or real-time states provided by either [OSPF Watcher](https://github.com/Vadims06/ospfwatcher) or [IS-IS Watcher](https://github.com/Vadims06/isiswatcher). Works with Topolograph MCP.     
 Interact naturally with OSPF/IS-IS protocols, for instance you can ask:
 * Which graphs are currently connected?
 * What nodes are in the latest OSPF area 0 graph?
